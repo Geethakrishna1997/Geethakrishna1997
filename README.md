@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **geethakrishnaposa@gmail.com**
 
+- 🏆Goals of 2021: Building an FullStack web Application
+
 - ⚡ Fun fact **its crazy😅because my day starts with watching a funny vedio**
 
 
