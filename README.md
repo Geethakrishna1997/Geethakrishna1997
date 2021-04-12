@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FullStack(MERN) Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Geethakrishna1997](https://github.com/Geethakrishna1997)
+- 👨‍💻 my projects are available at [https://github.com/Geethakrishna1997](https://github.com/Geethakrishna1997)
 
 - 💬 Ask me about **reactJs,redux**
 
